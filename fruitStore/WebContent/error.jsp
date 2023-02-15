@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	오류 발생
+	<h1>오류 발생</h1>
 </body>
 </html>
